@@ -1,7 +1,7 @@
 <script>
-	let red = 50;
-	let green = 50;
-	let blue = 50;
+	let red = 127;
+	let green = 127;
+	let blue = 127;
 
 	function fontColor(r, g, b) {
 		if (r < 50 || g < 50 || b < 50) {
